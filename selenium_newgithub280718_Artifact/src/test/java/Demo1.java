@@ -32,6 +32,7 @@ public class Demo1 {
       {
      	 String city =e.getText();
      	 System.out.println(city);
+	      System.out.println("this test is pass")
      	 if(city.contains("BGF"))
      	 {
      		 e.click();
