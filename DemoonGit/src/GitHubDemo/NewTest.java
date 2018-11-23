@@ -7,6 +7,7 @@ public class NewTest {
   public void f() {
 	  System.out.println("1st commit");
 	  System.out.println("2nd commit");
+	  System.out.println("3rd commit");
 	  
 	  /*
 	   * 
